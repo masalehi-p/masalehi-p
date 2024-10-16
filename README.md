@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @masalehi-p
+- 👋 Hi, I’m MohammadAmin
 - 👀 I’m interested in computer and programming
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on ...
